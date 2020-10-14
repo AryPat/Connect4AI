@@ -3,6 +3,8 @@
 Fun interactive Connect 4 game for you to play with a friend or against our customly designed AI! 
 This game is ideal for all different skill levels with our AI's varying difficulties ranging from very easy to very hard!
 
+## Authors: :bow:
+Samyak Mehta and Aryan Patel
 
 ## Requirements :floppy_disk:
 - Java(TM) SE Runtime Environment (build 13.0.1+9)
