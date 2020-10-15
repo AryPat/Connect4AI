@@ -7,7 +7,7 @@ This game is ideal for all different skill levels with our AI's varying difficul
 Samyak Mehta and Aryan Patel
 
 ## Requirements :floppy_disk:
-- Java(TM) SE Runtime Environment (build 13.0.1+9)
+- Java(TM) SE Runtime Environment (build 13.0.1+)
 
 ## How to play :sunglasses:
 #### Method One :sparkles:
